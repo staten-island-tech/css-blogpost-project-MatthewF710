@@ -13,10 +13,11 @@ html {
     background-size: cover;
 }
 .maintitle{
-    background-color: #eda34891;
+    background-color: rgbrgb(221, 202, 202);
 }
 .post{
-    background-color: #ffffffc0;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid rgb(0, 0, 0)
 }
 h1{
     font-size: 8vw;
