@@ -12,11 +12,11 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
 }
-.listitem{
-
+.maintitle{
+    background-color: #eda34891;
 }
-#e{
-    
+.post{
+    background-color: #ffffffc0;
 }
 h1{
     font-size: 8vw;
