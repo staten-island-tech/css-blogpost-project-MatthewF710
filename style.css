@@ -35,9 +35,17 @@ p{
     text-align: center;
 }
 .maintitle{
-    background-color: rgb(198, 188, 169);
+    background-color: rgb(124, 116, 100);
 }
 .mainpost {
+    height: auto;
+    width: 70vw;
+    margin: 3vw auto;
+    padding: 50px;
+    background-color: rgb(193, 193, 193);
+    border: 3px solid rgb(0, 0, 0)
+}
+#overallpost {
     height: auto;
     width: 70vw;
     margin: 3vw auto;
@@ -64,16 +72,15 @@ p{
     background-color: rgb(121, 244, 158);
     border: 3px solid rgb(0, 0, 0);
     width: fit-content;
-    bottom: 11px;
-    right: 260px;;
+    right: 17.5vw;
     position: relative;
 }
 #subpost4 {
     background-color: rgb(148, 121, 244);
     border: 3px solid rgb(0, 0, 0);
     width: fit-content;
-    left: 250px;
-    bottom: 625px;
+    left: 17.5vw;
+    bottom: 38vw;
     position: relative;
 }
 .post-img {
